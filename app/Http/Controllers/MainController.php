@@ -10,6 +10,14 @@ class MainController extends Controller
 
     private $Title = "The AfriChild Centre exists to generate research that informs policy and practice for the wellbeing of children. Vision - We strive for an Africa where children\'s wellbeing is realized for sustainable development.  ";
 
+    public function __construct()
+    {
+        // // dd($_SERVER['SERVER_NAME']);
+        // SitemapGenerator::create('http://africhild.or.ug')->writeToFile(public_path('sitemap.xml
+        // '));
+
+    }
+
     public function RunSEO($PageTitle, $Desc = null)
     {
         SEOTools::setTitle($PageTitle);
