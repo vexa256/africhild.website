@@ -44,7 +44,7 @@
     <ul>
 
         <li> <a target="_blank" href="https://africhild.cloud/login">MIS</a> </li>
-        <li> <a target="_blank" href="http://afrimanager.africhild.cloud/login">WEB-INV</a> </li>
+        <li> <a target="_blank" href="https://afrimanager.africhild.cloud/">WEB-INV</a> </li>
 
 
 
