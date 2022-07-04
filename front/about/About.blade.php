@@ -20,22 +20,42 @@
                     </h2>
                     <div class="fw-divider-space divider-30 divider-lg-55"></div>
                     <p>
-                        The AfriChild Centre exists to generate research that informs policy and practice for
-                        the wellbeing of children.
 
-                        We strive for an Africa where children's wellbeing is realized for sustainable
-                        development.
+                        <span class="fw-bolder">
+                            <div>
+                                <h3>Mission
+                                </h3>
 
-                        "Building The next generation of child- focused researchers
-                        "
+                                <p>The AfriChild Centre exists to generate research that informs policy and practice for
+                                    the wellbeing of children.</p>
+                            </div>
+                        </span>
+
+                        <br>
+                        {{-- <br> --}}
+
+
+                        <span class="fw-bolder">
+                            <div>
+                                <h3>Vision
+                                </h3>
+
+                                <p>We strive for an Africa where children's wellbeing is realised for sustainable
+                                    development.</p>
+                            </div>
+                        </span>
+
+                    <blockquote class="pt-5">
+                        “We are a Centre of Excellence in the study of the African child.”
+
+
+                    </blockquote>
+
+
 
 
                     </p>
-                    <p>
-                        Our goal is to teach children in grades K-12 abstract concepts of planning, analysis and
-                        strategy through the game of chess. Kids will be excited to understand and amazed by the
-                        positive experience that chess offers.
-                    </p>
+
                     <div class="fw-divider-space divider-30 divider-lg-60"></div>
 
             </div>

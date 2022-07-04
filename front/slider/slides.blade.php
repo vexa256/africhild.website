@@ -14,7 +14,7 @@
                                     class="color-main text-capitalize bold">Research</span>
                             </h4>
                             <p>
-                                Building The next generation of child- focused researchers
+                                We are a Centre of Excellence in the study of the African child
                             </p>
                         </div>
 
@@ -23,7 +23,8 @@
                     <div class="intro_layers ">
                         <div class="many-buttons intro_layer" data-animation="fadeIn" data-delay="150">
                             {{-- <a href="#" class="btn btn-maincolor medium-btn">start now</a> --}}
-                            <a href="#" class="btn btn-outline-maincolor medium-btn">learn more</a>
+                            <a href="{{ route('AboutTheAfriChildCenterMakerere') }}"
+                                class="btn btn-outline-maincolor medium-btn">learn more</a>
                         </div>
                     </div>
                 </div> <!-- eof .intro_layers_wrapper -->

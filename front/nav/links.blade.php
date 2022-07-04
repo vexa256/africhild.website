@@ -1,7 +1,7 @@
 <li>
-    <a style="font-weight: 400" href="#">Who We Are</a>
+    <a style="font-weight: 400" href="#">About</a>
     <ul>
-        <li> <a href="{{ route('AboutTheAfriChildCenterMakerere') }}">About</a> </li>
+        <li> <a href="{{ route('AboutTheAfriChildCenterMakerere') }}">About AfriChild</a> </li>
         <li> <a href="{{ route('OurWorkAtAfriChildCenterMakerere') }}">Our Work</a> </li>
         <li> <a href="{{ route('TheAfriChildCenterBoardOfDirectors') }}">Board of Directors</a> </li>
         <li> <a href="{{ route('TheAfriChildSecretariatTeam') }}">The Secretariat</a> </li>
@@ -14,8 +14,9 @@
     </ul>
 </li>
 
-<div class="d-xl-none d-lg-none  d-md-none ">
+{{-- <div class="d-xl-none d-lg-none  d-md-none ">
 
+    <li class=""> <a style="font-weight: 400" href="/">Forum</a> </li>
     <li class=""> <a style="font-weight: 400" href="/">Research</a> </li>
     <li class=""> <a style="font-weight: 400" href="/">Policy Briefs</a> </li>
     <li class=""> <a style="font-weight: 400" href="/">Reports</a> </li>
@@ -24,12 +25,18 @@
     <li class=""> <a style="font-weight: 400" href="/">Vacancies</a> </li>
     <li class=""> <a style="font-weight: 400" href="/">AfriChild Forum</a> </li>
 
-</div>
+</div> --}}
 
 
 <li class=""> <a style="font-weight: 400" href="{{ route('AfriChildCenterGallery') }}">Gallery</a> </li>
 <li class=""> <a style="font-weight: 400" href="{{ route('AfriChildCenterBlogPosts') }}">Blog</a> </li>
-<li class=""> <a style="font-weight: 400" target="_blank" href="https://hub.africhild.cloud/">Knowledge Hub</a>
+{{-- <li class=""> 
+
+
+</li> --}}
+
+<li class=""> <a target="_blank" href="https://chat.africhild.cloud/" style="font-weight: 500">AfriChild Forum</a>
+</li>
 </li>
 {{-- <li class=""> <a style="font-weight: 400" href="/">Contact Us</a> </li> --}}
 <li>

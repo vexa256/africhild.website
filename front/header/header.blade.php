@@ -22,6 +22,11 @@
     @endisset
 
     <style>
+        .entry-content>div>p>img {
+
+            display: none !important;
+        }
+
         .rounded-me {
             background-color: #51c4ca !important;
             font-weight: 400 !important;

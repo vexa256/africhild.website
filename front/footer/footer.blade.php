@@ -24,7 +24,7 @@
 
             <div class="col-xl-3 col-12 text-xl-left text-center  animate" data-animation="fadeInUp">
                 <a href="/" class="logo">
-                    <img src="{{ asset('img/africhild_ngo.png') }}" alt="">
+                    <img style="height: 50px" src="{{ asset('img/africhild_ngo.png') }}" alt="">
                 </a>
             </div>
 
@@ -33,21 +33,19 @@
                 <div class="widget widget_nav_menu">
                     <ul class="list-unstyled">
                         <li>
-                            <a href="about.html">About</a>
+                            <a target="_blank" href="http://hub.africhild.cloud/">Knowledge Hub</a>
                         </li>
 
                         <li>
-                            <a href="courses.html">Courses</a>
+                            <a target="_blank" href="https://chat.africhild.cloud/"> Forum</a>
                         </li>
                         <li>
-                            <a href="blog-right.html">Blog</a>
+                            <a target="_blank" href="https://twitter.com/AfriChildCentre">Twitter</a>
                         </li>
                         <li>
-                            <a href="shop-right.html">Shop</a>
+                            <a href="{{ route('AfriChildResearchPublications') }}">Research</a>
                         </li>
-                        <li>
-                            <a href="contact.html">Contact Us</a>
-                        </li>
+
                     </ul>
                 </div>
             </div>

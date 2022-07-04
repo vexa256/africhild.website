@@ -29,7 +29,7 @@
                                 </header>
                                 <!-- .entry-header -->
                                 <div class="entry-content" style="height: 45vh ; overflow-y: scroll;">
-                                    <div style="height: 45vh ; overflow-y: scroll;">
+                                    <div>
 
                                         {!! $data->Desc !!}
                                     </div>

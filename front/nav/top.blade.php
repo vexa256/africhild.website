@@ -42,9 +42,10 @@
 
                      <li class="dropdown-account">
                          <div class="dropdown show">
-                             <a style="font-weight: 500" class="dropdown-toggle" href="#" role="button">
+                             <a target="_blank" style="font-weight: 500" class="dropdown-toggle"
+                                 href="https://hub.africhild.cloud/" role="button">
                                  <i class="fa  fa-tasks 
-                              "></i> Vacancies
+                              "></i> Knowledge Hub
                              </a>
 
                          </div>
